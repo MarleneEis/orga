@@ -11,9 +11,9 @@
 ## Erste ausfromulierte Texte des Tutorials (jeder Punkt stellt einen neuen Slide im Tutorial dar)
 *Alle Texte sind in Beta stadium ;) Wesentlich geht es darum ob alle Funktionen für das Tutorial erfasst sind und ausreichent dargestellt werden*
 1. Vielen Dank dass Sie sich für SafeMarket entschieden haben! Mit SafeMarket können Sie dabei helfen unnötige Warteschlangen vor Märkten zu vermeiden.
-2. Aktuell befindet sich diese Applikation noch in der ersten Beta. Konkret sind deshalb noch keine echten Märkte hinterlegt. Testmärkte finden Sie aber unter folgender PLZ: 12345
-3. SafeMarket bietet verschiedene Funktion um Sie beim Einkauf zu unterstützen: Wählen Sie eine Funktion um diese genauer kennen zu lernen:
-    - Buchung eines Einkaufslots
+2. Aktuell befindet sich diese Applikation noch in der ersten Beta-Version. Konkret sind deshalb noch keine echten Märkte hinterlegt. Unsere Testmärkte finden Sie aber unter folgender Postleitzahl: 12345
+3. SafeMarket bietet verschiedene Funktionen, um Sie beim Einkauf zu unterstützen. Wählen Sie eine der folgenden Funktionen, um diese genauer kennen zu lernen:
+    - Buchung eines Einkaufslots    //Anm. Marlene: Begriff festlegen - Termin wär für mich greifbarer! Slot(h) liebt Chunk ;)
     - Verwaltung Ihrer gebuchten Slots
     - Betreten des Markts mit einem Slot
 
@@ -24,7 +24,7 @@
     - (Bild) Wählen Sie den gewünschten Solt
     - (Bild) Bestätigen Sie anschließend den Slot
 2. Verwaltung Ihrer gebuchten Slots
-    - (Bild) Sie können sich an Ihre Slots errinerrn lassen
+    - (Bild) Sie können sich an Ihre Slots errinnern lassen
     - (Bild) Sie können einen Slot stornieren, falls Sie den geplanten Einkauf doch nicht wahrnehmen können Hinweis: Dieser ist anschließend dauerhaft gelöscht.
 3. Betreten des Markts mit einem Slot
     - Sie haben 2 Möglichekeiten den Laden mit SafeMarket betreten:
@@ -37,4 +37,4 @@
 
 ## Aufgekommene Fragen:
 - Slots oder Tickets vom Naming /Understanding => finde Ticket sprechender
-- PLZ Suche?
+- Postleitzahl-Suche? //Anm. Marlene: Finde ich sinnvoll, weil das gerade ältere Leute nutzen - unterstützt also diese Zielgruppe
