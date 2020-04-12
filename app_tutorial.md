@@ -36,5 +36,5 @@
         - Ticket verfällt nach xyz Minuten
 
 ## Aufgekommene Fragen:
-- Slots oder Tickets vom Naming /Understanding => finde Ticket sprechender
+- Slots oder Tickets vom Naming /Understanding => finde Ticket sprechender  //Marlene: gefällt mir auch besser
 - PLZ Suche?
